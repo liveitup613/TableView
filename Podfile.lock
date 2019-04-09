@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (4.8.2)
+  - IQKeyboardManagerSwift (6.2.1)
+  - MBProgressHUD (1.1.0)
+  - RAGTextField (0.12.1)
+  - SwipeCellKit (2.5.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - IQKeyboardManagerSwift
+  - MBProgressHUD
+  - RAGTextField
+  - SwipeCellKit (= 2.5.2)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - MBProgressHUD
+    - RAGTextField
+    - SwipeCellKit
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  IQKeyboardManagerSwift: 0f0ae8935360b4003e6ea1ac7c19898f01e2f7c7
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  RAGTextField: 1c961cabd05305d89347ad0cc4418d9b04e52a71
+  SwipeCellKit: a19e328c69c4ba983f317eeabf36ed299c69bfa4
+
+PODFILE CHECKSUM: c32366ca7a636703a97d9543bc135ef976454d82
+
+COCOAPODS: 1.6.1
